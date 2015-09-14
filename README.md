@@ -14,4 +14,6 @@ Basic points for this project-setup:(Must have git installed)
 
 4.Goto the git-downloaded-main-folder and do--> git pull --rebase origin master
 
-5.VOILA!!! You are ready to go.
+5.VOILA!!! You are ready to go. Open index.html in 'html' folder, and begin you adventure.
+
+P.S. : For now, kindly do all changes in 'primary-projectup' branch, later will merge in 'master'.
